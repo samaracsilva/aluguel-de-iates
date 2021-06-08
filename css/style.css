@@ -1,0 +1,184 @@
+body {
+    background-color:#EBEBEB;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 100px 0 100px;
+}
+
+header {
+    background: #21272B;
+    padding: 20px 0;
+}
+
+.logo-luxo {
+    display:inline-block;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+h1 {
+    margin-left: 80px;
+    margin-top: -50px;
+    color: #1BB4E8;
+    font-size: 20px;
+    font-style:italic;
+    position: absolute;
+}
+
+.subtitulo-cabecalho {
+    margin-top: -20px;
+    margin-left: 80px;
+    color: #ffffff;
+    font-style: italic;
+    position: absolute;
+}
+
+nav {
+    position: absolute;
+    top: 45px;
+    right: 140px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: normal;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #1BB4E8;
+}
+
+.separador-menu {
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+#caixa-cabecalho{
+    margin: -350px 0 0 610px;
+    position: absolute;
+    background: #1A3042;
+    opacity: 0.9;
+    width: 350px;
+    height: 200px;
+    padding: 30px;
+}
+
+.titulo-caixa-cabecalho{
+    margin-top: 50px;
+    color: #ffffff;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.imagem-caixa-cabecalho{
+    margin: 40px 0 0 0;
+}
+
+.informacao{
+    margin: -30px 0 0 30px;
+    color: #ffffff;
+    font-style: italic;
+    position: absolute;
+    font-size: 14px;
+}
+
+.fone{
+    margin: -16px 0 0 95px;
+    color: #C6B07F;
+    font-style: italic;
+    position: absolute;
+    font-size: 14px;
+}
+
+main{
+    background-color: #ffffff;
+}
+
+.conteudo-principal{
+    margin: 0 0 50px 65px;
+    display: inline-flex;
+}
+
+.secao-destino{
+    width: 500px;
+}
+
+.titulo-destino{
+    margin-top: 30px;
+    padding: 10px 10px 10px 40px;
+    background-color: #1BB4E8;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.logo-destino, .logo-frota{
+    position: absolute;
+    margin-top: -38px;
+}
+
+.subtitulo-destino, .subtitulo-frota{
+    font-style: italic;
+    padding: 20px 20px 20px 0px;
+}
+
+.imagem-destino{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.conteudo-destino, .conteudo-frota{
+    font-size: 12px;
+    text-align: justify;
+}
+
+
+.secao-frota{
+    width: 500px;
+    margin-left: 20px;
+}
+
+.titulo-frota{
+    margin-top: 30px;
+    padding: 10px 10px 10px 40px;
+    background-color: #C6B07F;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.imagens-frota{
+    width: 100%;
+}
+
+.img-frota-1{
+    padding: 20px 30px 10px 0;
+}
+
+.img-frota-2{
+    padding: 20px 0 10px 0;
+}
+
+.img-frota-3{
+    padding: 0 30px 0 0;
+}
+
+footer{
+    background-color: #EBEBEB;
+    font-size: 12px;
+    padding: 20px;
+    opacity: 0.5;
+}
+
+.copyright{
+    margin-left: 40px;
+}
+
+
